@@ -1,0 +1,176 @@
+#1. Word processing, spreadsheet, and photo-editing are examples of:
+A. application software.
+B. system software.
+C. operating system software.
+D. platform software.
+Answer: A
+
+#2.  System software is the set of programs that enables your computers hardware devices and ____________ software to work together.
+A. management
+B. processing
+C. utility
+D. application
+Answer: D
+
+3.  The PC (personal computer) and the Apple Macintosh are examples of two different:
+A. platforms.
+B. applications.
+C. programs.
+D. storage devices.
+Answer: A
+
+4.  ____________ are specially designed computers that perform complex calculations extremely rapidly.
+A. Servers
+B. Supercomputers
+C. Laptops
+D. Mainframes
+Answer: B
+
+5.  ____________ is the science revolving around the use of nano structures to build devices on an extremely small scale.
+A. Nanotechnology
+B. Micro-technology
+C. Computer forensics
+D. Artificial intelligence
+Answer: A
+
+6.  ____________ bits equal one byte.
+A. Eight
+B. Two
+C. One thousand
+D. One million
+Answer: A
+
+
+# 7. The binary language consists of ____________ digit(s).
+A. 8
+B. 2
+C. 1,000
+D. 1
+Answer: B
+
+8. ____________ are specially designed computer chips that reside inside other devices, such as your car or your electronic thermostat.
+A. Servers
+B. Embedded computers
+C. Robotic computers
+D. Mainframes
+Answer: B
+
+9. A ____________ is approximately a million bytes.
+A. gigabyte
+B. kilobyte
+C. megabyte
+D. terabyte
+Answer: C
+
+# 10. Which of the following computer language is used for artificial intelligence?
+A.	FORTRAN
+B.	PROLOG
+C.	C
+D.	COBOL
+Answer: Option B
+
+
+#11. Which of the following is the 1's complement of 10?
+A.	01
+B.	110
+C.	11
+D.	10
+E.	None of the above
+Answer: Option A
+
+
+12. A computer program that converts assembly language to machine language is
+A.	Compiler
+B.	Interpreter
+C.	Assembler
+D.	Comparator
+E.	None of the above
+Answer: Option C
+
+13. What does XML stands for?
+
+Expand Markup Language
+...Extensible Markup Language
+Expert Markup Language
+Expensive Markup Language
+
+14. A mathematical-model with a collection of operations defined on that model is called
+A.	Data Structure
+B.	Abstract Data Type
+C.	Primitive Data Type
+D.	Algorithm
+ans b
+
+
+15.  The information about an array that is used in a program will be stored in
+
+A.
+symbol table
+
+B.
+activation record
+
+C.
+system table
+
+D.
+dope vector
+
+ans D
+
+# 16..  In networking terminology UTP means
+
+A.	Unshielded Twisted pair
+B.	Ubiquitious Teflon port
+C.	Uniformly Terminating port
+D.	Unshielded T-connector port
+
+ans A
+
+17. In a broad sense, a railway track is an example of
+
+A.	simplex
+B.	half-duplex
+C.	full-duplex
+D.	All of these
+
+ans B
+
+18.  For 'C' programming language
+A.	Constant expressions are evaluated at compile
+B.	String constants can be concatenated at compile time
+C.	Size of array should be known at compile time
+D.	All of these
+
+ans D
+
+
+19. Which of the following is an illegal array definition in c?
+
+A.
+Type COLOGNE:(LIME,PINE,MUSK,MENTHOL); var a:array[COLOGNE]of REAL;
+
+B.
+var a:array[REAL]of REAL;
+
+C.
+var a:array['A'..'Z']of REAL;
+
+D.
+var a:array[BOOLEAN]of REAL;
+
+20 . The  const  feature can be applied to
+
+A.
+an identifier
+
+B.
+an array
+
+C.
+an array argument
+
+D.
+All of these
+
+ans : D
